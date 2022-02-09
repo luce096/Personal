@@ -1,0 +1,38 @@
+@charset "UTF-8";
+header{
+text-align: center;
+}
+img{
+	width:100%;
+	max-width:900px;
+	height:400px;
+}
+body{
+background-color: white;
+}
+.startservice{
+    border: 1px solid #ccc;
+    background-color: #fff;
+    color: #0073e9;
+    box-shadow: inset 0 -1px 0 rgb(0 0 0 / 15%);
+    text-decoration: none;
+    padding: 16px 17px;
+    font-size: 14px;
+    line-height: 20px;
+    display: block;
+    padding-left: 0;
+    padding-right: 0;
+    width: 410px;
+    height: 18px;
+    margin: auto;
+    margin-top: 15px;
+    text-align: center;
+}
+#title{
+	text-align:center;
+	padding: 5px;
+}
+footer{
+	text-align:center;
+	padding: 100px;
+}
